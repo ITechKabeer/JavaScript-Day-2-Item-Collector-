@@ -1,5 +1,5 @@
 # 🛒 Item Collector (JavaScript Day 2)
-**Live Demo:** [Click Here](#)
+**Live Demo:** [Click Here]([#](https://item-collector.vercel.app))
 
 A sleek and interactive **Item Collector App** built using **pure JavaScript DOM manipulation**, styled with **CSS for responsiveness and gradients**.  
 Every element — from buttons to item lists — is dynamically created and managed using JavaScript, with no static HTML structure.
