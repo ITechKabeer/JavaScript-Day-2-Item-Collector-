@@ -59,5 +59,5 @@ This project helps you master:
 📧 **Email:** codealpha0786@gmail.com  
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
-Made with ❤️ using pure JavaScript and CSS
+Made by Kabeer Hussain ❤️ 
 
